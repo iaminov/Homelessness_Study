@@ -1,0 +1,9 @@
+**/.ipynb_checkpoints/
+**/.DS_Store/
+**/.DS_Store
+**/cb_2019_us_tract_500k/
+**/venv
+**/*.pyc
+**/.env
+**/.tmp.driveupload/
+**/.idea/
